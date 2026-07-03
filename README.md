@@ -1,18 +1,12 @@
-# Student Performance Prediction System 🎓🤖
 
-Welcome to the official repository for the Machine Learning Internship Program at **Infobharat Interns (IBI)**. This project focuses on building an end-to-end predictive system that estimates a student's final exam performance based on demographic records, attendance records, study habits, and extracurricular involvements.
+
+# Oasis Infobyte - Python Programming Tasks
+Teeno internship tasks niche di gayi files mein available hain:
+- Task 2 (BMI Calculator): bmi_calculator.py
+- Task 3 (Password Generator): password_generator.py
+- Task 6 (Weather App): weather_app.py
 
 ---
-
-## 📋 Project Overview
-Educational analytics plays a critical role in modern academic institutions by identifying performance trends and supporting data-driven decision-making. This project implements full-cycle data workflows—ranging from synthetic data generation to exploratory data analysis (EDA), statistical visualization, and machine learning model validation—to proactively predict final scores and assist educators in targeting students who need extra support.
-
-### 🎯 Objectives
-* **Data Engineering:** Generate a highly realistic synthetic dataset containing at least 2,500 records mapping real-world educational variations.
-* **Exploratory Data Analysis:** Diagnose the structural factors affecting student performance and visualize multi-variable patterns.
-* **Predictive Modeling:** Train and evaluate robust regression algorithms to forecast final test percentages accurately.
-* **Interactive Command-Line Application:** Develop an error-resilient, console-based engine allowing users to dynamically input features and retrieve instant score predictions.
-
 ---
 
 ## 📊 Dataset Information
